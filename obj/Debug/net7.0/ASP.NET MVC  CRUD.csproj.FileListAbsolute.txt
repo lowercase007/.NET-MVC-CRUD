@@ -1,0 +1,31 @@
+C:\Users\SAURABH\OneDrive\Desktop\ASP.NET MVC  CRUD\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\SAURABH\OneDrive\Desktop\ASP.NET MVC  CRUD\bin\Debug\net7.0\appsettings.json
+C:\Users\SAURABH\OneDrive\Desktop\ASP.NET MVC  CRUD\bin\Debug\net7.0\ASP.NET MVC  CRUD.staticwebassets.runtime.json
+C:\Users\SAURABH\OneDrive\Desktop\ASP.NET MVC  CRUD\bin\Debug\net7.0\ASP.NET MVC  CRUD.exe
+C:\Users\SAURABH\OneDrive\Desktop\ASP.NET MVC  CRUD\bin\Debug\net7.0\ASP.NET MVC  CRUD.deps.json
+C:\Users\SAURABH\OneDrive\Desktop\ASP.NET MVC  CRUD\bin\Debug\net7.0\ASP.NET MVC  CRUD.runtimeconfig.json
+C:\Users\SAURABH\OneDrive\Desktop\ASP.NET MVC  CRUD\bin\Debug\net7.0\ASP.NET MVC  CRUD.dll
+C:\Users\SAURABH\OneDrive\Desktop\ASP.NET MVC  CRUD\bin\Debug\net7.0\ASP.NET MVC  CRUD.pdb
+C:\Users\SAURABH\OneDrive\Desktop\ASP.NET MVC  CRUD\obj\Debug\net7.0\ASP.NET MVC  CRUD.csproj.AssemblyReference.cache
+C:\Users\SAURABH\OneDrive\Desktop\ASP.NET MVC  CRUD\obj\Debug\net7.0\ASP.NET MVC  CRUD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SAURABH\OneDrive\Desktop\ASP.NET MVC  CRUD\obj\Debug\net7.0\ASP.NET MVC  CRUD.AssemblyInfoInputs.cache
+C:\Users\SAURABH\OneDrive\Desktop\ASP.NET MVC  CRUD\obj\Debug\net7.0\ASP.NET MVC  CRUD.AssemblyInfo.cs
+C:\Users\SAURABH\OneDrive\Desktop\ASP.NET MVC  CRUD\obj\Debug\net7.0\ASP.NET MVC  CRUD.csproj.CoreCompileInputs.cache
+C:\Users\SAURABH\OneDrive\Desktop\ASP.NET MVC  CRUD\obj\Debug\net7.0\ASP.NET MVC  CRUD.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\SAURABH\OneDrive\Desktop\ASP.NET MVC  CRUD\obj\Debug\net7.0\ASP.NET MVC  CRUD.RazorAssemblyInfo.cache
+C:\Users\SAURABH\OneDrive\Desktop\ASP.NET MVC  CRUD\obj\Debug\net7.0\ASP.NET MVC  CRUD.RazorAssemblyInfo.cs
+C:\Users\SAURABH\OneDrive\Desktop\ASP.NET MVC  CRUD\obj\Debug\net7.0\staticwebassets\msbuild.ASP.NET MVC  CRUD.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\SAURABH\OneDrive\Desktop\ASP.NET MVC  CRUD\obj\Debug\net7.0\staticwebassets\msbuild.build.ASP.NET MVC  CRUD.props
+C:\Users\SAURABH\OneDrive\Desktop\ASP.NET MVC  CRUD\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ASP.NET MVC  CRUD.props
+C:\Users\SAURABH\OneDrive\Desktop\ASP.NET MVC  CRUD\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ASP.NET MVC  CRUD.props
+C:\Users\SAURABH\OneDrive\Desktop\ASP.NET MVC  CRUD\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\SAURABH\OneDrive\Desktop\ASP.NET MVC  CRUD\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\SAURABH\OneDrive\Desktop\ASP.NET MVC  CRUD\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\SAURABH\OneDrive\Desktop\ASP.NET MVC  CRUD\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\SAURABH\OneDrive\Desktop\ASP.NET MVC  CRUD\obj\Debug\net7.0\scopedcss\bundle\ASP.NET MVC  CRUD.styles.css
+C:\Users\SAURABH\OneDrive\Desktop\ASP.NET MVC  CRUD\obj\Debug\net7.0\scopedcss\projectbundle\ASP.NET MVC  CRUD.bundle.scp.css
+C:\Users\SAURABH\OneDrive\Desktop\ASP.NET MVC  CRUD\obj\Debug\net7.0\ASP.NET MVC  CRUD.dll
+C:\Users\SAURABH\OneDrive\Desktop\ASP.NET MVC  CRUD\obj\Debug\net7.0\refint\ASP.NET MVC  CRUD.dll
+C:\Users\SAURABH\OneDrive\Desktop\ASP.NET MVC  CRUD\obj\Debug\net7.0\ASP.NET MVC  CRUD.pdb
+C:\Users\SAURABH\OneDrive\Desktop\ASP.NET MVC  CRUD\obj\Debug\net7.0\ASP.NET MVC  CRUD.genruntimeconfig.cache
+C:\Users\SAURABH\OneDrive\Desktop\ASP.NET MVC  CRUD\obj\Debug\net7.0\ref\ASP.NET MVC  CRUD.dll
